@@ -6,8 +6,7 @@ import donmovies from "../Assets/donmovies.png";
 import chatapp from "../Assets/chatapp.png";
 import ckeeper from "../Assets/ckeeper.png";
 import hero from "../Assets/hero.png";
-import { DiReact, DiJavascript, DiGithubBadge, DiHtml5 } from "react-icons/di";
-import { SiRedux, SiStyledComponents, SiMaterialUi } from "react-icons/si";
+import { DiReact, DiJavascript, DiGithubBadge, DiHtml5,DiBootstrap,DiNodejs,DiMongodb } from "react-icons/di";
 import { FaLink, FaCss3 } from "react-icons/fa";
 export const Projects = () => {
     return (
@@ -33,11 +32,11 @@ export const Projects = () => {
                                     Hero is an e-commerce website having all the necessary features , like the Add to cart feature , wishlist , payment through paypal or card,the LogIn Flow ,filtering the products ,sorting according to prices , it is easy to use. There is an admin panel where admin can add new categories of products with specifications.
                                 </Card.Text>
                                 <div className="Techstacks">
+                                    <DiNodejs className="Techstacks-icons" />
+                                    <DiMongodb className="Techstacks-icons" />
                                     <DiReact className="Techstacks-icons" />
-                                    <SiRedux className="Techstacks-icons" />
-                                    <SiStyledComponents className="Techstacks-icons" />
                                     <DiJavascript className="Techstacks-icons" />
-                                    <SiMaterialUi className="Techstacks-icons" />
+                                    <DiBootstrap className="Techstacks-icons" />
                                     <FaCss3 className="Techstacks-icons" />
                                     <DiHtml5 className="Techstacks-icons" />
                                 </div>
@@ -97,9 +96,10 @@ export const Projects = () => {
                                     Chat App allows users to register and login themself to communicate with the other users which is enlisted in chat list. To make the chat interactive emojis chat option in included. when the communication is done users can logout.
                                 </Card.Text>
                                 <div className="Techstacks">
+                                    <DiNodejs className="Techstacks-icons" />
+                                    <DiMongodb className="Techstacks-icons" />
                                     <DiReact className="Techstacks-icons" />
                                     <DiJavascript className="Techstacks-icons" />
-                                    <SiMaterialUi className="Techstacks-icons" />
                                     <FaCss3 className="Techstacks-icons" />
                                     <DiHtml5 className="Techstacks-icons" />
                                 </div>
@@ -157,9 +157,10 @@ export const Projects = () => {
                                     Ckeeper is an website where users can save their contacts online with user authentication and authorization.The users choose the wether the contact is professional or personal to avoid confusion. The Search is provided to access the contact quicker.
                                 </Card.Text>
                                 <div className="Techstacks">
+                                    <DiNodejs className="Techstacks-icons" />
+                                    <DiMongodb className="Techstacks-icons" />
                                     <DiReact className="Techstacks-icons" />
                                     <DiJavascript className="Techstacks-icons" />
-                                    <SiMaterialUi className="Techstacks-icons" />
                                     <FaCss3 className="Techstacks-icons" />
                                     <DiHtml5 className="Techstacks-icons" />
                                 </div>
@@ -212,9 +213,13 @@ export const Projects = () => {
                                     DonMovies website allows user to download movies from online. The movies are divided into hollywood, series etc.. There is an admin panel where admin can login to add movie's downloading link, screenshot, movie name etc.. Search option is included to filter the movie. 
                                 </Card.Text>
                                 <div className="Techstacks">
+                                    <DiNodejs className="Techstacks-icons" />
+                                    <DiMongodb className="Techstacks-icons" />
+                                    <DiBootstrap className="Techstacks-icons" />
                                     <DiJavascript className="Techstacks-icons" />
                                     <FaCss3 className="Techstacks-icons" />
                                     <DiHtml5 className="Techstacks-icons" />
+                                    <DiReact className="Techstacks-icons" />
                                 </div>
                                 <Button
                                     variant="primary"
