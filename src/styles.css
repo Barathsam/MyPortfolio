@@ -7,9 +7,9 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-image: url(./Components/Assets/pexels-mikhail-nilov-7988218.jpg);
   background-position: center;
-  background-attachment: fixed;
   background-size: 100% 100%;
   background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 #preloader {

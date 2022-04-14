@@ -11,6 +11,7 @@ import { SiRedux, SiStyledComponents, SiMaterialUi } from "react-icons/si";
 import { FaLink, FaCss3 } from "react-icons/fa";
 export const Projects = () => {
     return (
+        
         <Container fluid className="project-section">
             <Particle />
             <Container>
@@ -66,7 +67,22 @@ export const Projects = () => {
                                 >
                                     {" "}
                                     <FaLink /> Link
-                                </Button>
+        
+                                </Button> 
+                                 <br/>
+                                <div className="credentials"  >
+                                    <Card.Title style={{ fontWeight: "800",paddingTop:"25px" }}>
+                                        DEMO CREDENTIALS 
+                                    </Card.Title>
+                                    <Card.Text style={{ textAlign: "center" }}>
+                                    Admin Login : admin@gmail.com <br/>
+                                    Admin Password : admin@gmail.com <br/>
+                                    <br/>
+                                    Customer Login : user1@gmail.com <br/>
+                                    Customer Password : user1@gmail.com <br/>
+                                    </Card.Text>
+                                </div>
+                                      
                             </Card.Body>
                         </Card>
                     </Col>
@@ -95,8 +111,7 @@ export const Projects = () => {
                                 >
                                     {" "}
                                     <DiGithubBadge /> FrontEnd
-                                </Button>
-                                <Button
+                                </Button> <Button
                                     variant="primary"
                                     href="https://github.com/Barathsam/chat-App-BackEnd"
                                     target="_blank"
@@ -114,6 +129,20 @@ export const Projects = () => {
                                     {" "}
                                     <FaLink /> Link
                                 </Button>
+                                <br/>
+                                <div className="credentials"  >
+                                    <Card.Title style={{ fontWeight: "800",paddingTop:"25px" }}>
+                                        DEMO CREDENTIALS 
+                                    </Card.Title>
+                                    <Card.Text style={{ textAlign: "center" }}>
+                                    User1 Username : user1<br/>
+                                    User1 Password : Password@1 <br/>
+                                    <br/>
+                                    User2 Username : User2 <br/>
+                                    User2 Password : Password@1 <br/>
+                                    </Card.Text>
+                                </div>
+    
                             </Card.Body>
                         </Card>
                     </Col>
@@ -152,6 +181,19 @@ export const Projects = () => {
                                     {" "}
                                     <FaLink /> Link
                                 </Button>
+                                 <br/>
+                                <div className="credentials"  >
+                                    <Card.Title style={{ fontWeight: "800",paddingTop:"25px" }}>
+                                        DEMO CREDENTIALS 
+                                    </Card.Title>
+                                    <Card.Text style={{ textAlign: "center" }}>
+                                    User1 Login : user1@gmail.com <br/>
+                                    User1 Password : user1@gmail.com <br/>
+                                    <br/>
+                                    User2 Login : admin@gmail.com <br/>
+                                    User2 Password : Admin@123 <br/>
+                                    </Card.Text>
+                                </div>
                             </Card.Body>
                         </Card>
                     </Col>
@@ -192,6 +234,17 @@ export const Projects = () => {
                                     {" "}
                                     <FaLink /> Link
                                 </Button>
+                                 <br/>
+                                <div className="credentials" style={{ textAlign:"center" }} >
+                                    <Card.Title style={{ fontWeight: "800",paddingTop:"25px" }}>
+                                        DEMO CREDENTIALS 
+                                    </Card.Title>
+                                    <Card.Text style={{ textAlign:"center" }}>
+                                    Admin Login : admin@gmail.com <br/>
+                                    Admin Password : admin <br/>
+                                    Admin Key : 555
+                                    </Card.Text>
+                                </div>
                             </Card.Body>
                         </Card>
                     </Col>

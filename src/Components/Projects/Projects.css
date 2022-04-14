@@ -40,10 +40,14 @@
   border-color: rgb(250, 250, 45) !important;
 }
 
-.btn-primary:hover {
+
+.btn-primary:hover{
   color: white !important;
   background-color: rgb(250, 250, 45) !important;
   border-color: rgb(250, 250, 45) !important;
+}
+.btn-primary:hover .credentials {
+  display: block;
 }
 .btn:focus {
   outline: none !important;
@@ -60,6 +64,7 @@
   display: flex;
   justify-content: center;
 }
+
 
 .Techstacks-icons {
   font-size: 3em !important;
