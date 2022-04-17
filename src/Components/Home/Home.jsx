@@ -64,7 +64,7 @@ export const Home = () => {
                
                 <li className="social-icons" >
                     <a
-                        href="https://drive.google.com/file/d/1JuLtevUxiUpbWAG9bETvh0JPMpxS2__E/view?usp=sharing"
+                        href="https://drive.google.com/file/d/1E1D_q06hfcICdZJ-zzDlkPFnAXjIniPT/view?usp=sharing"
                         target="_blank"
                         rel="noreferrer"
                         className="icon-colour home-social-icons"
