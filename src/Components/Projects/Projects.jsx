@@ -2,7 +2,7 @@ import React from "react";
 import { Button, Card, Col, Container, Row } from "react-bootstrap";
 import { Particle } from "../Home/Particle";
 import "./Projects.css";
-import donmovies from "../Assets/donmovies.png";
+// import donmovies from "../Assets/donmovies.png";
 import chatapp from "../Assets/chatapp.png";
 import ckeeper from "../Assets/ckeeper.png";
 import hero from "../Assets/hero.png";
@@ -176,7 +176,7 @@ export const Projects = () => {
                                 <Button
                                     variant="primary"
                                     style={{ marginLeft: "5%", marginTop: "5%" }}
-                                    href="https://contact-saver-backend.herokuapp.com/login"
+                                    href="https://phenomenal-scone-1dbce0.netlify.app/"
                                     target="_blank"
                                 >
                                     {" "}
@@ -198,7 +198,7 @@ export const Projects = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col md={6} className="project-card">
+                    {/* <Col md={6} className="project-card">
                         <Card className="project-card-view" style={{ textAlign: "center" }}>
                             <Card.Img
                                 variant="top"
@@ -252,7 +252,7 @@ export const Projects = () => {
                                 </div>
                             </Card.Body>
                         </Card>
-                    </Col>
+                    </Col> */}
                     <Col md={6}></Col>
                 </Row>
             </Container>
