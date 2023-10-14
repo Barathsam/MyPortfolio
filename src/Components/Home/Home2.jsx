@@ -15,31 +15,38 @@ export const Home2 = () => {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am a Fresher looking for a good job to learn and to increase potential in my career to get a better experience.
-              My Interest in Technology are growing day after day.&nbsp;
+               Hi Everyone, I am <span className="purple">Barath P. </span>
+              <b>I</b> am a graduate with a 
+              <i>
+                <b className="purple">  B.Tech </b>
+              </i> in <i>
+                <b className="purple">  Information Technology </b>
+              </i>. During my academic years, I have gained a solid foundation in 
+              <i>
+                <b className="purple"> computer science and web development</b>
+              </i> concepts, and have dedicated my time to apply these concepts in practical applications.
+
+                <i>
+                <b className="purple"> <b>I</b> have hands-on experience in all my skills through various projects.</b>
+              </i>  I have also familiar with modern frameworks such as
+                 <i>
+                <b className="purple">  React.js.</b>
+              </i> I am passionate about web development and enjoy creating
+               <i>
+                <b className="purple">  innovative and user-friendly designs.</b>
+              </i>
+              As a 
+               <i>
+                <b className="purple"> fresher, </b>
+              </i>
+               I am eager to apply my knowledge and grow professionally. I am quick to learn new technologies and can adapt to changing environments.
+               I believe that my 
+               <i>
+                <b className="purple"> passion for web development</b>
+              </i> and my ability to work collaboratively in a team make me a strong candidate for the Web Developer position.&nbsp;
                 <br/>
                 <br/>
-              <b>I</b> have been practicing programming over a year. 
-              I am fluent in Basics like
-              <i>
-                <b className="purple"> HTML , CSS, Javascript . </b>
-              </i>
-              <i> I
-                also have good skills in {" "}
-                <b className="purple">Data Structure and Algorithms.</b>
-              </i>
-              <br />
-              <br />
-              Using my knowlege i am developing websites in a Passionated way with creativity in the Frameworks such as 
-             <b className="purple"> Node js</b>,
-              &nbsp;
-              <i>
-                <b className="purple">Bootstrap </b>
-              </i>
-              and
-              <i>
-                <b className="purple"> React.js .</b>
-              </i>
+                          
             </p>
           </Col>
           <Col md={4} className="myAvtar">

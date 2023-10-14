@@ -27,7 +27,7 @@ export const Contact = () => {
     e.preventDefault();
     emailjs
       .sendForm(
-        "service_ddal13u",
+        "service_pu689uy",
         "template_9vbrrlw",
         form.current,
         "user_37Y24qg2leMBPKt21LIsN"

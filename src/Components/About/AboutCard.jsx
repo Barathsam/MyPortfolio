@@ -9,9 +9,9 @@ export const AboutCard = () => {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Barath P </span>
-            from <span className="purple"> TamilNadu, India.</span>
-            <br />I am a final year student in Bachelor of Technology from 
-            <span className="purple"> Hindusthan college of engineering and technology, coimbatore.</span>
+            from <span className="purple">Tiruppur, TamilNadu, India.</span>
+            <br />I am a graduate in Bachelor of Technology from 
+            <span className="purple"> Hindusthan College of Engineering and Technology, Coimbatore.</span>
             <br />
             <br />
             Apart from coding, some other Qualities i have!
@@ -27,7 +27,7 @@ export const AboutCard = () => {
               <ImPointRight /> I am a Team Player
             </li>
             <li className="about-activity">
-              <ImPointRight /> Fluency in English
+              <ImPointRight /> Communication
             </li>
           </ul>
         </blockquote>
