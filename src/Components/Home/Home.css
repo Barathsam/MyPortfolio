@@ -46,10 +46,10 @@
 
 .home-section {
   padding: 30;
-  text-align: "center";
   position: relative;
+  text-align: "center";
   z-index: 1;
-  left: 300px;
+  margin: 0 200px;
   padding-bottom: 30px !important;
   padding-top: 30px !important;
 }
@@ -182,5 +182,9 @@
   .myAvtar {
     padding-top: 2em !important;
     padding-bottom: 2em !important;
+  }
+  .home-section{
+    margin: 0px;
+    padding-left: 0px;
   }
 }
