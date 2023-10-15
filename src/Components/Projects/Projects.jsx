@@ -29,7 +29,7 @@ export const Projects = () => {
                                     Hero
                                 </Card.Title>
                                 <Card.Text style={{ textAlign: "justify" }}>
-                                    Hero is an e-commerce website having all the necessary features , like the Add to cart feature , wishlist , payment through paypal or card,the LogIn Flow ,filtering the products ,sorting according to prices , it is easy to use. There is an admin panel where admin can add new categories of products with specifications.
+                                    Hero is an e-commerce website where user can buy products in categories having all the necessary features like the Add to car, Payment through paypal or card, filtering the products, sorting according to prices, with proper user authentication and authorization. There is an admin panel where admin can add new categories of products with specifications and can update the previous product.
                                 </Card.Text>
                                 <div className="Techstacks">
                                     <DiNodejs className="Techstacks-icons" />
@@ -93,7 +93,7 @@ export const Projects = () => {
                                     Chat App
                                 </Card.Title>
                                 <Card.Text style={{ textAlign: "justify" }}>
-                                    Chat App allows users to register and login themself to communicate with the other users which is enlisted in chat list. To make the chat interactive emojis chat option in included. when the communication is done users can logout.
+                                    Chat App allows users to register and login themself to communicate with the other users which is enlisted in chat list. To make the chat interactive, emojis are included to have fun chat. When the communication is done users can logout their chat anytime.
                                 </Card.Text>
                                 <div className="Techstacks">
                                     <DiNodejs className="Techstacks-icons" />
@@ -154,8 +154,8 @@ export const Projects = () => {
                                     CKeeper
                                 </Card.Title>
                                 <Card.Text style={{ textAlign: "justify" }}>
-                                    Ckeeper is an website where users can save their contacts online with user authentication and authorization.The users choose the wether the contact is professional or personal to avoid confusion. The Search is provided to access the contact quicker.
-                                </Card.Text>
+                                        Ckeeper is a website where users can save their contacts online with user authentication and authorization. The users can choose whether the contact is professional or personal to avoid confusion. The contacts that are updated can be modified or deleted according to users preference.          
+                                 </Card.Text>
                                 <div className="Techstacks">
                                     <DiNodejs className="Techstacks-icons" />
                                     <DiMongodb className="Techstacks-icons" />

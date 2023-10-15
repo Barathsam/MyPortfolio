@@ -43,7 +43,7 @@ export const Footer = () => {
                
                 <li className="social-icons">
                     <a
-                        href="https://drive.google.com/file/d/1whvfIrMgnef3bk2N26BlpBJyFVX58zUi/view?usp=sharing"
+                        href="https://drive.google.com/file/d/1yjUNTpV2XmbsAp6QmenvkLt69vdcsLfL/view?usp=sharing"
                         target="_blank"
                         rel="noreferrer"
                         className="icon-colour home-social-icons"
