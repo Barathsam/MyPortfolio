@@ -48,7 +48,7 @@ export const Home = () => {
                 </li>
                 <li className="social-icons" >
                     <a
-                        href="https://www.linkedin.com/in/barath-sam-b7ba841b9/"
+                        href="https://www.linkedin.com/in/barath-sam/"
                         target="_blank"
                         rel="noreferrer"
                         className="icon-colour home-social-icons"
@@ -64,7 +64,7 @@ export const Home = () => {
                
                 <li className="social-icons" >
                     <a
-                        href="https://drive.google.com/file/d/1E1D_q06hfcICdZJ-zzDlkPFnAXjIniPT/view?usp=sharing"
+                        href="https://drive.google.com/file/d/1whvfIrMgnef3bk2N26BlpBJyFVX58zUi/view?usp=sharing"
                         target="_blank"
                         rel="noreferrer"
                         className="icon-colour home-social-icons"
